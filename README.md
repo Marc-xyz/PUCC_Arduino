@@ -12,3 +12,7 @@ Notas sobre un curso introductorio a la electrónica con Arduino. Impartido onli
 |**week_04**| |
 
 # Notas de un curso elemental de Arduino
+|Nombre Archivo| Palabra Clave | Descripción|
+|--------------|---------------|------------|
+
+
